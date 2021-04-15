@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 24.0"
+	enable-background="new 0 0 24.0 24.0"
+	xml:space="preserve">
+<defs>
+	<radialGradient id="fillGrad59" cx="0.152%" cy="25.523%" fx="0.152%" fy="25.523%" r="95.734%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,165,0);stop-opacity:1.000" />
+		<stop offset="82.137%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+		<stop offset="11.318%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+		<stop offset="34.664%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+		<stop offset="53.019%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad82" cx="32.917%" cy="19.523%" fx="32.917%" fy="19.523%" r="71.067%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+		<stop offset="64.386%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,176,0);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad93" cx="12.893%" cy="83.170%" fx="12.893%" fy="83.170%" r="56.808%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,167,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,173,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad104" cx="12.893%" cy="83.170%" fx="12.893%" fy="83.170%" r="56.808%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,167,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,173,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad115" cx="12.893%" cy="83.170%" fx="12.893%" fy="83.170%" r="56.808%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,167,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,173,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad126" cx="12.893%" cy="83.170%" fx="12.893%" fy="83.170%" r="56.808%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,167,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,173,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad165" cx="32.422%" cy="95.475%" fx="32.422%" fy="95.475%" r="48.637%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,147,0);stop-opacity:1.000" />
+		<stop offset="47.970%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad188" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad201" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad212" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad223" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad242" cx="49.935%" cy="8.259%" fx="49.935%" fy="8.259%" r="89.111%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(231,231,231);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad251" cx="50.886%" cy="-1.730%" fx="50.886%" fy="-1.730%" r="103.567%">
+   		<stop offset="0.000%" style="stop-color:rgb(236,184,145);stop-opacity:1.000" />
+		<stop offset="52.319%" style="stop-color:rgb(236,184,145);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(212,143,96);stop-opacity:1.000" />
+	</radialGradient>
+
+	<style type="text/css">
+		@font-face {
+			font-family: 'lora'; 
+			src: url('./lora.ttf');
+		}
+	</style>
+	<radialGradient id="fillGrad303" cx="51.675%" cy="11.548%" fx="51.675%" fy="11.548%" r="83.165%">
+   		<stop offset="0.000%" style="stop-color:rgb(242,193,155);stop-opacity:1.000" />
+		<stop offset="33.333%" style="stop-color:rgb(242,193,155);stop-opacity:1.000" />
+		<stop offset="68.881%" style="stop-color:rgb(242,193,155);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(212,143,96);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad359" cx="32.422%" cy="95.475%" fx="32.422%" fy="95.475%" r="48.637%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,147,0);stop-opacity:1.000" />
+		<stop offset="47.970%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad382" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad395" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad406" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad417" cx="3.385%" cy="48.704%" fx="3.385%" fy="48.704%" r="58.109%">
+   		<stop offset="0.000%" style="stop-color:rgb(248,162,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(248,175,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(248,200,32);stop-opacity:1.000" />
+	</radialGradient>
+
+	<linearGradient id="fillGrad418" x1="0.000%" y1="50.000%" x2="100.000%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad419" x1="0.000%" y1="50.000%" x2="100.000%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(0,0,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<radialGradient id="fillGrad440" cx="50.325%" cy="71.604%" fx="50.325%" fy="71.604%" r="64.957%">
+   		<stop offset="0.000%" style="stop-color:rgb(212,143,96);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(212,84,0);stop-opacity:0.196" />
+		<stop offset="100.000%" style="stop-color:rgb(212,85,0);stop-opacity:0.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad489" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(164,68,34);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(164,68,34);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(164,68,34);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad489" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(164,68,34);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(164,68,34);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(164,68,34);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad494" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad494" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad497" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad497" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad500" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad500" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad503" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad503" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad506" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad506" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad509" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad509" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(134,55,28);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="fillGrad520" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(195,118,78);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(195,118,78);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(195,118,78);stop-opacity:1.000" />
+	</radialGradient>
+
+	<radialGradient id="stkGrad520" cx="50.000%" cy="50.000%" fx="50.000%" fy="50.000%" r="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(195,118,78);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(195,118,78);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(195,118,78);stop-opacity:1.000" />
+	</radialGradient>
+
+</defs>
+	<path
+		fill="#FF0000"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#FF0000"
+		stroke-opacity="1.000"
+		stroke-width="0.24000001"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M16.86,2.95C20.00,2.95,22.55,5.50,22.55,8.64C22.55,11.77,20.00,14.32,16.86,14.32C13.72,14.32,11.18,11.77,11.18,8.64C11.18,5.50,13.72,2.95,16.86,2.95z"/>
+	<path
+		fill="#FF0000"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#FF0000"
+		stroke-opacity="1.000"
+		stroke-width="0.24000001"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M6.85,2.80C9.99,2.80,12.54,5.34,12.54,8.48C12.54,11.62,9.99,14.16,6.85,14.16C3.72,14.16,1.17,11.62,1.17,8.48C1.17,5.34,3.72,2.80,6.85,2.80z"/>
+	<path
+		fill="#FF0000"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#FF0000"
+		stroke-opacity="1.000"
+		stroke-width="0.24000001"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M12.00,21.57L18.48,15.06Q21.00,12.54,21.29,12.14Q23.59,1.85,13.91,3.83Q12.97,4.41,12.00,5.55Q11.02,4.41,10.14,3.90Q0.40,1.85,2.55,12.11Q3.13,12.82,5.51,15.06L12.00,21.57z"/>
+	<path
+		transform = "rotate(-0.00 11.57 12.39)"
+		fill="url(#fillGrad59)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.24"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M13.27,10.82Q13.99,11.55,15.14,12.56Q15.51,12.93,15.22,13.28Q14.96,13.56,14.53,13.38Q14.64,13.86,14.33,14.01Q14.01,14.22,13.61,13.94Q13.71,14.55,13.35,14.69Q13.01,14.82,12.78,14.57Q12.71,15.14,12.34,15.21Q12.01,15.30,11.68,14.98Q11.29,15.43,10.93,15.15Q10.69,14.99,10.75,14.68Q10.29,15.02,9.95,14.69Q9.70,14.45,9.90,14.03Q9.48,14.14,9.26,13.86Q9.03,13.59,9.26,13.28Q8.81,13.37,8.63,13.08Q8.40,12.60,8.82,12.36Q7.60,11.39,7.82,10.73Q8.04,10.09,8.85,9.57Q9.16,9.42,9.71,9.79Q10.10,10.07,10.64,9.79Q11.16,9.49,12.01,9.96z"/>
+	<path
+		transform = "rotate(-0.00 13.42 11.04)"
+		fill="url(#fillGrad82)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.24"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M15.25,9.63Q16.27,10.27,16.17,10.98Q16.08,11.81,15.25,12.57Q14.57,12.06,13.25,10.78Q12.96,10.59,12.63,10.74Q12.00,10.98,11.37,11.32Q10.88,11.51,10.71,11.10Q10.54,10.65,10.90,10.48Q11.40,10.23,12.47,9.79Q12.96,9.63,13.29,9.74Q13.66,9.92,13.97,9.93Q14.32,9.89,14.64,9.60Q14.95,9.39,15.25,9.63z"/>
+	<path
+		transform = "rotate(-0.00 9.25 12.60)"
+		fill="url(#fillGrad93)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.23999998"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M8.68,12.53Q8.97,12.24,9.28,12.08Q9.60,11.90,9.84,12.20Q10.05,12.48,9.84,12.69Q9.50,12.97,9.12,13.16Q8.84,13.26,8.66,13.05Q8.44,12.74,8.68,12.53z"/>
+	<path
+		transform = "rotate(-0.00 9.96 13.28)"
+		fill="url(#fillGrad104)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.23999998"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M9.24,13.35Q9.60,12.98,10.10,12.66Q10.45,12.40,10.69,12.67Q10.95,12.94,10.67,13.21Q10.21,13.62,9.74,13.96Q9.42,14.13,9.23,13.91Q8.97,13.62,9.24,13.35"/>
+	<path
+		transform = "rotate(-0.00 10.67 13.96)"
+		fill="url(#fillGrad115)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.23999998"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M9.91,14.13Q10.39,13.63,10.84,13.24Q11.14,12.95,11.43,13.24Q11.71,13.51,11.43,13.81Q11.10,14.23,10.60,14.66Q10.20,15.00,9.92,14.68Q9.61,14.45,9.91,14.13"/>
+	<path
+		transform = "rotate(-0.00 11.46 14.57)"
+		fill="url(#fillGrad126)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.23999998"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M10.76,14.76Q11.16,14.26,11.51,13.95Q11.77,13.73,11.99,13.92Q12.29,14.13,12.08,14.42Q11.77,14.87,11.42,15.21Q11.19,15.40,10.94,15.22Q10.69,15.05,10.76,14.76"/>
+	<path
+		transform = "rotate(-0.00 5.47 7.46)"
+		fill="url(#fillGrad165)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.09782618"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M5.22,5.83Q5.52,5.65,5.79,5.96Q5.91,6.12,5.84,6.42Q5.71,6.80,5.70,7.11Q5.96,7.00,6.64,7.03Q6.84,7.03,6.87,7.23Q6.90,7.43,6.77,7.58Q7.05,7.63,7.04,7.89Q7.04,8.07,6.82,8.15Q7.01,8.22,6.97,8.45Q6.93,8.62,6.68,8.70Q6.84,8.74,6.82,8.92Q6.82,9.11,6.59,9.14Q6.18,9.20,5.04,9.11Q4.47,9.06,4.33,8.89Q3.94,8.89,3.89,8.63L3.89,7.58Q3.89,7.35,4.20,7.31Q4.68,7.11,4.89,6.92Q5.13,6.67,5.18,6.28Q5.22,6.03,5.22,5.83z"/>
+	<path
+		fill="#F88808"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.09782618"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M5.06,8.38Q5.76,8.06,5.51,7.32Q5.63,7.13,5.91,7.13C5.90,7.26,5.88,7.40,5.86,7.53C5.83,7.65,5.79,7.78,5.75,7.90Q5.55,8.36,5.06,8.38z"/>
+	<path
+		fill="#F88808"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.00978262"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M4.41,8.93L4.26,8.40L4.22,8.86z"/>
+	<path
+		transform = "rotate(-0.00 6.22 7.31)"
+		fill="url(#fillGrad188)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.09782618"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M5.57,7.28Q5.69,7.12,5.89,7.09Q6.08,7.04,6.60,7.04Q6.80,7.04,6.86,7.17Q6.93,7.40,6.80,7.51Q6.67,7.60,5.99,7.58Q5.77,7.58,5.62,7.47Q5.54,7.43,5.57,7.28z"/>
+	<path
+		transform = "rotate(-0.00 6.32 7.88)"
+		fill="url(#fillGrad201)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.09782618"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M5.65,7.75Q5.81,7.61,6.17,7.61Q6.53,7.59,6.80,7.61Q7.06,7.64,7.03,7.87Q7.03,8.15,6.72,8.15Q6.27,8.16,5.90,8.12Q5.75,8.10,5.67,8.02Q5.57,7.91,5.65,7.75z"/>
+	<path
+		transform = "rotate(-0.00 6.26 8.41)"
+		fill="url(#fillGrad212)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.09782618"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M5.58,8.30Q5.54,8.41,5.57,8.48Q5.70,8.65,6.53,8.67Q6.86,8.69,6.93,8.51Q7.05,8.27,6.80,8.20Q6.60,8.16,6.00,8.14Q5.75,8.14,5.58,8.30z"/>
+	<path
+		transform = "rotate(-0.00 6.20 8.90)"
+		fill="url(#fillGrad223)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.09782618"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M5.61,8.75Q5.77,8.60,6.08,8.65Q6.32,8.67,6.61,8.71Q6.91,8.74,6.80,9.04Q6.72,9.23,6.06,9.12Q5.75,9.07,5.58,8.96Q5.54,8.83,5.61,8.75"/>
+	<path
+		transform = "rotate(-0.00 17.65 8.52)"
+		fill="url(#fillGrad242)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#888888"
+		stroke-opacity="1.000"
+		stroke-width="0.011417095"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M16.61,8.78Q16.73,8.33,16.84,8.06Q16.89,7.90,17.47,7.88Q17.68,7.88,17.88,7.88Q18.48,7.90,18.51,8.10Q18.66,8.62,18.68,8.85Q18.67,8.94,18.29,9.07Q18.13,9.13,17.86,9.17Q17.63,9.18,17.42,9.17Q17.10,9.14,16.87,9.01Q16.59,8.85,16.61,8.78z"/>
+	<path
+		transform = "rotate(-0.00 17.67 7.88)"
+		fill="url(#fillGrad251)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#000000"
+		stroke-opacity="1.000"
+		stroke-width="0.0"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.42,7.99Q17.44,7.86,17.44,7.68Q17.60,7.69,17.89,7.68Q17.89,7.86,17.91,7.99Q17.90,8.07,17.65,8.06Q17.44,8.06,17.42,7.99z"/>
+	<path
+		fill="#E55C02"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#E55C02"
+		stroke-opacity="1.000"
+		stroke-width="0.0038056984"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M17.90,7.90Q17.95,7.90,17.94,7.98Q17.94,8.08,17.85,8.09Q17.76,8.09,17.51,8.10Q17.41,8.10,17.40,8.03Q17.38,7.93,17.42,7.91Q17.46,7.89,17.48,7.96Q17.49,8.03,17.55,8.04Q17.67,8.05,17.79,8.02Q17.85,8.00,17.87,7.93Q17.87,7.91,17.90,7.90z"/>
+
+	<text 
+		font-size="0.15058106"
+		font-family="lora"
+		stroke="#006EFB"
+		stroke-width="0.0038056984"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 17.639408 8.281567) scale(1.6019531 1.0)" >
+		<tspan x="10.986189" y="8.337067">I</tspan>
+	</text> 
+
+	<text 
+		font-size="0.15058106"
+		font-family="lora"
+		fill="#006EFB"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 17.639408 8.281567) scale(1.6019531 1.0)" >
+
+		<tspan x="10.986189" y="8.337067">I</tspan>
+	</text>
+
+	<text 
+		font-size="0.15629883"
+		font-family="lora"
+		stroke="#006EFB"
+		stroke-width="0.0038056984"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 17.653961 8.898265) scale(1.1933801 1.0)" >
+		<tspan x="14.228743" y="8.955765">LIST BUILDING</tspan>
+	</text> 
+
+	<text 
+		font-size="0.15629883"
+		font-family="lora"
+		fill="#006EFB"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 17.653961 8.898265) scale(1.1933801 1.0)" >
+
+		<tspan x="14.228743" y="8.955765">LIST BUILDING</tspan>
+	</text>
+	<path
+		transform = "rotate(-0.00 17.68 6.89)"
+		fill="url(#fillGrad303)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#000000"
+		stroke-opacity="1.000"
+		stroke-width="0.0"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M16.78,7.06Q16.66,7.09,16.69,6.96Q16.71,6.86,16.70,6.70Q16.71,6.58,16.82,6.65Q17.07,5.98,17.75,6.01Q18.37,6.02,18.51,6.62Q18.70,6.59,18.67,6.74Q18.66,6.83,18.67,6.97Q18.68,7.05,18.60,7.05Q18.56,7.06,18.55,7.12Q18.52,7.35,18.48,7.41Q18.41,7.54,18.24,7.63Q18.07,7.71,17.89,7.72Q17.69,7.84,17.46,7.72Q17.24,7.71,17.07,7.57Q16.85,7.38,16.82,7.15Q16.82,7.05,16.78,7.06z"/>
+	<path
+		fill="#FF0000"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#FF0000"
+		stroke-opacity="1.000"
+		stroke-width="0.005637832"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.75,8.37C17.83,8.37,17.89,8.43,17.89,8.50C17.89,8.58,17.83,8.64,17.75,8.64C17.68,8.64,17.62,8.58,17.62,8.50C17.62,8.43,17.68,8.37,17.75,8.37z"/>
+	<path
+		fill="#FF0000"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#FF0000"
+		stroke-opacity="1.000"
+		stroke-width="0.005637832"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.52,8.36C17.59,8.36,17.65,8.42,17.65,8.50C17.65,8.57,17.59,8.63,17.52,8.63C17.45,8.63,17.39,8.57,17.39,8.50C17.39,8.42,17.45,8.36,17.52,8.36z"/>
+	<path
+		fill="#FF0000"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#FF0000"
+		stroke-opacity="1.000"
+		stroke-width="0.005637832"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.64,8.81L17.79,8.65Q17.85,8.59,17.86,8.58Q17.91,8.34,17.69,8.39Q17.66,8.40,17.64,8.43Q17.62,8.40,17.60,8.39Q17.37,8.34,17.42,8.58Q17.43,8.60,17.49,8.65L17.64,8.81z"/>
+	<path
+		transform = "rotate(-0.00 17.64 8.57)"
+		fill="url(#fillGrad359)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.005637831"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.62,8.48Q17.64,8.47,17.66,8.49Q17.66,8.49,17.66,8.51Q17.65,8.53,17.65,8.55Q17.67,8.55,17.71,8.55Q17.72,8.55,17.72,8.56Q17.72,8.57,17.71,8.58Q17.73,8.58,17.73,8.60Q17.73,8.61,17.72,8.61Q17.73,8.62,17.73,8.63Q17.72,8.64,17.71,8.64Q17.72,8.65,17.72,8.66Q17.72,8.67,17.70,8.67Q17.68,8.67,17.61,8.67Q17.58,8.66,17.57,8.65Q17.55,8.65,17.55,8.64L17.55,8.58Q17.55,8.57,17.57,8.56Q17.59,8.55,17.61,8.54Q17.62,8.53,17.62,8.50Q17.62,8.49,17.62,8.48z"/>
+	<path
+		fill="#F88808"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.005637831"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.62,8.62Q17.66,8.61,17.64,8.56Q17.65,8.55,17.66,8.55C17.66,8.56,17.66,8.57,17.66,8.58C17.66,8.58,17.66,8.59,17.66,8.60Q17.64,8.62,17.62,8.62z"/>
+	<path
+		fill="#F88808"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="5.6378316E-4"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M17.58,8.66L17.57,8.63L17.57,8.65z"/>
+	<path
+		transform = "rotate(-0.00 17.68 8.56)"
+		fill="url(#fillGrad382)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.005637831"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.64,8.56Q17.65,8.55,17.66,8.55Q17.67,8.55,17.70,8.55Q17.72,8.55,17.72,8.56Q17.72,8.57,17.72,8.57Q17.71,8.58,17.67,8.58Q17.66,8.58,17.65,8.57Q17.64,8.57,17.64,8.56z"/>
+	<path
+		transform = "rotate(-0.00 17.69 8.60)"
+		fill="url(#fillGrad395)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.005637831"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.65,8.59Q17.66,8.58,17.68,8.58Q17.70,8.58,17.72,8.58Q17.73,8.58,17.73,8.60Q17.73,8.61,17.71,8.61Q17.69,8.61,17.66,8.61Q17.65,8.61,17.65,8.60Q17.64,8.60,17.65,8.59z"/>
+	<path
+		transform = "rotate(-0.00 17.68 8.63)"
+		fill="url(#fillGrad406)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.0056378306"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.65,8.62Q17.64,8.63,17.64,8.63Q17.65,8.64,17.70,8.64Q17.72,8.64,17.72,8.63Q17.73,8.62,17.72,8.61Q17.70,8.61,17.67,8.61Q17.66,8.61,17.65,8.62z"/>
+	<path
+		transform = "rotate(-0.00 17.68 8.65)"
+		fill="url(#fillGrad417)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F88808"
+		stroke-opacity="1.000"
+		stroke-width="0.0056378306"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.65,8.65Q17.66,8.64,17.67,8.64Q17.69,8.64,17.70,8.64Q17.72,8.65,17.72,8.66Q17.71,8.67,17.67,8.67Q17.66,8.66,17.65,8.66Q17.64,8.65,17.65,8.65"/>
+	<path
+		transform = "rotate(-15.19 17.42 6.90)"
+		fill="url(#fillGrad418)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#FFFFFF"
+		stroke-opacity="1.000"
+		stroke-width="0.07230826"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M17.42,6.77C17.50,6.77,17.56,6.83,17.56,6.90C17.56,6.98,17.50,7.04,17.42,7.04C17.35,7.04,17.29,6.98,17.29,6.90C17.29,6.83,17.35,6.77,17.42,6.77z"/>
+	<path
+		transform = "rotate(-15.19 17.96 6.90)"
+		fill="url(#fillGrad419)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#FFFFFF"
+		stroke-opacity="1.000"
+		stroke-width="0.07230826"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M17.96,6.77C18.03,6.77,18.09,6.83,18.09,6.90C18.09,6.98,18.03,7.04,17.96,7.04C17.88,7.04,17.82,6.98,17.82,6.90C17.82,6.83,17.88,6.77,17.96,6.77z"/>
+	<path
+		fill="#000000"
+		fill-opacity="0.000"
+		fill-rule="nonzero"
+		stroke="#898989"
+		stroke-opacity="1.000"
+		stroke-width="0.030445587"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M17.34,6.63C17.48,6.63,17.60,6.75,17.60,6.90C17.60,7.05,17.48,7.16,17.34,7.16C17.19,7.16,17.07,7.05,17.07,6.90C17.07,6.75,17.19,6.63,17.34,6.63z"/>
+	<path
+		fill="#000000"
+		fill-opacity="0.000"
+		fill-rule="nonzero"
+		stroke="#898989"
+		stroke-opacity="1.000"
+		stroke-width="0.030445587"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M18.03,6.63C18.18,6.63,18.30,6.75,18.30,6.90C18.30,7.05,18.18,7.16,18.03,7.16C17.88,7.16,17.76,7.05,17.76,6.90C17.76,6.75,17.88,6.63,18.03,6.63z"/>
+	<path
+		fill="#898989"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#898989"
+		stroke-opacity="1.000"
+		stroke-width="0.030445587"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M18.30,6.89L18.50,6.58L18.30,6.93z"/>
+	<path
+		fill="#898989"
+		fill-opacity="1.000"
+		fill-rule="nonzero"
+		stroke="#898989"
+		stroke-opacity="1.000"
+		stroke-width="0.030445587"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M17.07,6.89L16.89,6.66L17.07,6.93z"/>
+	<path
+		fill="#FFB67D"
+		fill-opacity="0.000"
+		fill-rule="nonzero"
+		stroke="#B64A00"
+		stroke-opacity="0.306"
+		stroke-width="0.03805698"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M17.98,7.47Q17.69,7.69,17.40,7.47Q17.69,7.36,17.98,7.47z"/>
+	<path
+		fill="#FFFFFF"
+		fill-opacity="0.776"
+		fill-rule="nonzero"
+		stroke="#888888"
+		stroke-opacity="0.322"
+		stroke-width="0.0076113967"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M17.93,7.48Q17.70,7.54,17.44,7.48Q17.69,7.39,17.93,7.48z"/>
+	<path
+		transform = "rotate(-0.00 17.69 7.16)"
+		fill="url(#fillGrad440)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="#F2C19B"
+		stroke-opacity="1.000"
+		stroke-width="0.0"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M17.69,7.28Q17.88,7.31,17.80,7.18Q17.77,7.07,17.69,7.04Q17.60,7.07,17.57,7.18Q17.50,7.31,17.69,7.28z"/>
+	<path
+		transform = "rotate(-0.00 17.70 6.21)"
+		fill="url(#fillGrad489)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad489)"
+		stroke-opacity="1.0"
+		stroke-width="0.03805698"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M16.80,6.89Q16.87,6.63,16.77,6.30Q16.83,6.30,16.88,6.30Q16.89,6.07,16.83,5.93Q16.91,5.99,16.98,6.04Q16.97,5.85,16.73,5.82Q17.12,5.56,17.51,5.53Q17.83,5.50,18.09,5.63Q18.22,5.69,18.29,5.74Q18.29,5.69,18.27,5.65Q18.41,5.71,18.50,5.88Q18.56,5.99,18.55,6.30Q18.60,6.28,18.67,6.23Q18.50,6.57,18.55,6.87Q18.40,6.44,18.29,6.37Q18.27,6.45,18.25,6.51Q18.23,6.41,18.19,6.35Q18.12,6.53,17.78,6.57Q17.88,6.48,17.92,6.34Q17.79,6.35,17.66,6.52Q17.66,6.41,17.76,6.30Q17.58,6.39,17.49,6.48Q17.51,6.41,17.60,6.30Q17.34,6.52,17.06,6.64Q17.10,6.56,17.10,6.49Q16.89,6.56,16.80,6.89z"/>
+	<path
+		transform = "rotate(-0.00 18.00 6.46)"
+		fill="url(#fillGrad494)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad494)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M18.17,6.37Q18.12,6.46,18.02,6.50Q17.92,6.54,17.83,6.55Q18.00,6.49,18.17,6.37z"/>
+	<path
+		transform = "rotate(-0.00 18.58 6.45)"
+		fill="url(#fillGrad497)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad497)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M18.64,6.29Q18.55,6.41,18.52,6.60Q18.48,6.41,18.64,6.29z"/>
+	<path
+		transform = "rotate(-0.00 17.78 6.43)"
+		fill="url(#fillGrad500)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad500)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M17.87,6.35Q17.78,6.39,17.68,6.50Q17.74,6.34,17.87,6.35z"/>
+	<path
+		transform = "rotate(-0.00 17.62 6.38)"
+		fill="url(#fillGrad503)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad503)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M17.71,6.33Q17.64,6.35,17.53,6.45Q17.65,6.28,17.71,6.33z"/>
+	<path
+		transform = "rotate(-0.00 17.31 6.48)"
+		fill="url(#fillGrad506)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad506)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M17.52,6.32Q17.40,6.48,17.10,6.63Q17.27,6.47,17.52,6.32z"/>
+	<path
+		transform = "rotate(-0.00 16.93 6.68)"
+		fill="url(#fillGrad509)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad509)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M17.04,6.53Q16.87,6.63,16.83,6.83Q16.83,6.55,17.04,6.53z"/>
+	<path
+		transform = "rotate(-0.00 17.52 5.67)"
+		fill="url(#fillGrad520)"
+		fill-opacity="1.0"
+		fill-rule="nonzero"
+		stroke="url(#stkGrad520)"
+		stroke-opacity="1.0"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M16.83,5.78Q17.04,5.64,17.28,5.58Q17.50,5.54,17.77,5.56Q17.92,5.56,18.20,5.75Q17.81,5.57,17.65,5.60Q17.36,5.60,17.21,5.64Q17.05,5.71,16.83,5.78z"/>
+</svg>
